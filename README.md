@@ -24,4 +24,4 @@ project:
 
     url: https://github.com/saurabhkumar04/Deflategate-Analysis/blob/master/sentimentanalysis.py
     type: project
-    chapter: Health
+    chapter: Sports
