@@ -22,6 +22,6 @@ project:
     author:
         - Kumar, Saurabh  
 
-    url: https://github.com/saurabhkumar04/Learning-Analytics-for-PLAE/blob/master/viz_pipeline.ipynb
+    url: https://github.com/saurabhkumar04/Deflategate-Analysis/blob/master/sentimentanalysis.py
     type: project
     chapter: Health
